@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3F1D950F-C0F8-4CDA-B28B-F6DC3D8A359D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8C23212-4735-4A0C-B923-AF87F320EC16"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVC_Demo_11/ViewController/SingleCellTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "SingleCellTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B8C23212-4735-4A0C-B923-AF87F320EC16 - 2ddf3368734dc3fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVC_Demo_11.SingleCellTableViewCell.mealImage.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "MVC_Demo_11"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Documents/Tasks%20iti/MVC_Demo_11/MVC_Demo_11/ViewController/SingleCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "B8C23212-4735-4A0C-B923-AF87F320EC16 - f4d9ab52f90f97c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVC_Demo_11.SingleCellTableViewCell.mealImage.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "MVC_Demo_11"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Documents/Tasks%20iti/MVC_Demo_11/MVC_Demo_11/ViewController/SingleCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "B8C23212-4735-4A0C-B923-AF87F320EC16 - 5baa33f04b706824"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVC_Demo_11.SingleCellTableViewCell.mealImage.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "MVC_Demo_11"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Documents/Tasks%20iti/MVC_Demo_11/MVC_Demo_11/ViewController/SingleCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "B8C23212-4735-4A0C-B923-AF87F320EC16 - f80771f8b58f8fae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVC_Demo_11.SingleCellTableViewCell.mealImage.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MVC_Demo_11"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Documents/Tasks%20iti/MVC_Demo_11/MVC_Demo_11/ViewController/SingleCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "B8C23212-4735-4A0C-B923-AF87F320EC16 - ed1520510bddaf4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVC_Demo_11.SingleCellTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; MVC_Demo_11.SingleCellTableViewCell"
+                  moduleName = "MVC_Demo_11"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Documents/Tasks%20iti/MVC_Demo_11/MVC_Demo_11/ViewController/SingleCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "131">
+               </Location>
+               <Location
+                  uuid = "B8C23212-4735-4A0C-B923-AF87F320EC16 - a1064ba07f0d031"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVC_Demo_11.SingleCellTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MVC_Demo_11.SingleCellTableViewCell&gt;"
+                  moduleName = "MVC_Demo_11"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmedtaha/Documents/Tasks%20iti/MVC_Demo_11/MVC_Demo_11/ViewController/SingleCellTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
